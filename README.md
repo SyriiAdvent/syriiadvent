@@ -2,8 +2,7 @@
 
 ### Check me out @:
 
-### Portfolio:
-[rudyg.dev](https://rudyg.dev)
+### [rudyg.dev](https://rudyg.dev)
 
 ### [Resume](https://www.rudyg.dev/static/media/Rudy%20Goldhaber%20CV.ff80603f.pdf)
 

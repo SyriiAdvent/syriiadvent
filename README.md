@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi i'm Rudy Goldhaber 👋
+
+### Check me out @:
+
+### Portfolio:
+https://rudyg.dev
+
+### Resume:
+https://www.rudyg.dev/static/media/Rudy%20Goldhaber%20CV.ff80603f.pdf
+
+### LinkedIn:
+https://linkedin.com/in/rudy-goldhaber
+
+### Twitter:
+https://twitter.com/SyriiAdvent
 
 <!--
 **SyriiAdvent/syriiadvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -1,6 +1,6 @@
 ### Hi i'm Rudy Goldhaber 👋
 
-### Check me out @:
+### Check me out @
 
 ### [rudyg.dev](https://rudyg.dev)
 

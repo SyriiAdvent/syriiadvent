@@ -4,7 +4,7 @@
 
 ### [rudyg.dev](https://rudyg.dev)
 
-### [Resume](https://www.rudyg.dev/static/media/Rudy_Goldhaber_Resume.af1de1cf.pdf)
+### [Resume](https://www.rudyg.dev/static/media/Rudy_Goldhaber_SWE_Resume.e6dcc822.pdf)
 
 ### [LinkedIn](https://linkedin.com/in/rudy-goldhaber)
 

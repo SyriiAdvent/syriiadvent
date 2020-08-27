@@ -4,8 +4,6 @@
 
 ### [rudyg.dev](https://rudyg.dev)
 
-### [Resume](https://www.rudyg.dev/static/media/Rudy_Goldhaber_SWE_Resume.e6dcc822.pdf)
-
 ### [LinkedIn](https://linkedin.com/in/rudy-goldhaber)
 
 ### [Twitter](https://twitter.com/SyriiAdvent)

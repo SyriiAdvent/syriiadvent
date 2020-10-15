@@ -2,8 +2,6 @@
 
 ### Check me out @
 
-### [rudyg.dev](https://rudyg.dev)
-
 ### [LinkedIn](https://linkedin.com/in/rudy-goldhaber)
 
 ### [Twitter](https://twitter.com/SyriiAdvent)
